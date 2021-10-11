@@ -1,0 +1,33 @@
+@charset "UTF-8";
+#main{
+	height: auto;
+	width: calc(100% - 230px);
+	float: right;
+	margin: 30px;
+	margin-bottom: 100px;
+	padding: 10px;
+	overflow:hidden;
+	background-color: #F8F8FF;
+}
+#mainWrapper{
+	float: none;
+	margin: 0 auto;
+	min-height: 650px;
+	width: 1000px;
+	/* background-color: blue; */
+}
+*{
+	margin: 0;
+	padding: 0;
+	color: dimgray;
+}
+body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+#container{
+	height: 100%;
+	width: 100%;
+}
